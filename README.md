@@ -27,7 +27,7 @@ As crises econômicas e políticas que marcaram o Brasil, especialmente na déca
 
 O Canadá, com sua política de imigração mais aberta, oferece a possibilidade de encontrar trabalho, construir uma nova vida e acessar serviços de qualidade. 
 
-#Necessidade de mão de obra:  
+# Necessidade de mão de obra:  
 
 O Canadá enfrentou um envelhecimento populacional e precisou de mão de obra para contribuir para a economia, o que atraiu imigrantes brasileiros. 
 

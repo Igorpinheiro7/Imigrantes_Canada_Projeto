@@ -17,7 +17,7 @@ Então deixa eu explicar, em minha pesquisa eu observei que:
 
 A grande imigração de brasileiros para o Canadá entre 1980 e 2013 foi motivada por um conjunto de fatores, incluindo a busca por melhores oportunidades econômicas e de vida, crises no Brasil e políticas de imigração do Canadá que incentivaram a chegada de mão de obra básica. 
 
-# Fatores que contribuíram para a imigração: Crises econômicas e políticas no Brasil: 
+# Fatores_que_contribuíram_para_a_imigração: 
 
 As crises econômicas e políticas que marcaram o Brasil, especialmente na década de 1980, levaram muitos a buscar melhores condições de vida em outros países. 
 

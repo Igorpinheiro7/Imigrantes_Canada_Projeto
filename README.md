@@ -1,3 +1,13 @@
+
+![Image](https://github.com/user-attachments/assets/c65d7c15-23ad-4b56-82ab-2ce45e1fee73)
+
+
+
+
+
+
+
+
 # Imigração_Canada
 Este projeto tinha como objetivo ver a imigração de brasileiros para o Canadá no período de 1980 a 2013. E Porque a imigração tava alta para o Canadá nesse período você deve estar se pergutando correto? 
 

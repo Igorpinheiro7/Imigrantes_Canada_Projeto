@@ -23,11 +23,6 @@ O grande número de imigração de brasileiros para o Canadá entre 1980 e 2013 
 
 As crises econômicas e políticas que marcaram o Brasil, especialmente na década de 1980, levaram muitos a buscar melhores condições de vida em outros países. 
 
-
-
-![Image](https://github.com/user-attachments/assets/2c601283-64ae-456d-a420-67e359da3d63)
-
-
 # Oportunidades no Canadá:  
 
 O Canadá, com sua política de imigração mais aberta, oferece a possibilidade de encontrar trabalho, construir uma nova vida e acessar serviços de qualidade. 
@@ -59,6 +54,11 @@ O sistema de ensino e o mercado de trabalho canadense eram vistos como mais proj
 # Conclusão: 
 
 A combinação de fatores econômicos, políticos e sociais no Brasil, aliada às oportunidades e políticas de imigração do Canadá, explica a grande imigração brasileira para o país entre 1980 e 2013.
+
+
+
+![Image](https://github.com/user-attachments/assets/2c601283-64ae-456d-a420-67e359da3d63)
+
 
 
 Link dos dados Utilizados no projeto a seguir: https://www.kaggle.com/datasets/ammaraahmad/immigration-to-canada

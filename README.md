@@ -53,7 +53,7 @@ O sistema de ensino e o mercado de trabalho canadense eram vistos como mais proj
 
 # Conclusão: 
 
-A combinação de fatores econômicos, políticos e sociais no Brasil, aliada às oportunidades e políticas de imigração do Canadá, explica a grande imigração brasileira para o país entre 1980 e 2013
+A combinação de fatores econômicos, políticos e sociais no Brasil, aliada às oportunidades e políticas de imigração do Canadá, explica a grande imigração brasileira para o país entre 1980 e 2013.
 
 
 

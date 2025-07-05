@@ -37,7 +37,7 @@ Nossa análise revelou que o Brasil ocupa a quarta posição entre os países su
 <img width="1238" height="455" alt="Image" src="https://github.com/user-attachments/assets/da427fe7-c1c8-451e-8143-10a14132d88a" />
 <img width="1243" height="514" alt="Image" src="https://github.com/user-attachments/assets/6ffccf4d-380b-4812-9881-976c86f03cb4" />
 
-# 🤔 Fatores_que_contribuíram_para_a_imigração: 
+# 🤔 Fatores que contribuíram para a imigração 
 
 As crises econômicas e políticas que marcaram o Brasil, especialmente na década de 1980, levaram muitos a buscar melhores condições de vida em outros países. 
 
@@ -49,7 +49,7 @@ Diversidade cultural e educação: O Canadá valoriza a diversidade cultural e o
 
 Melhores condições de vida: A busca por um ambiente mais seguro e com melhores condições de vida, em comparação com o Brasil, também foi um fator importante para a decisão de imigrar. 
 
-# 📄 Políticas de imigração do Canadá: 
+# 📄 Políticas de imigração do Canadá
 
 Sistema de pontos: O sistema de pontos, que avalia as qualificações dos imigrantes, permitiu que muitos brasileiros com habilidades e qualificações específicas fossem selecionadas para imigrar. 
 

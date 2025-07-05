@@ -31,6 +31,13 @@ Nos gráficos abaixo identificamos os quatros maiores países da América do Sul
 
 <img width="859" height="585" alt="Image" src="https://github.com/user-attachments/assets/30ceefd3-ede5-49d1-a44e-d005fbf6397b" />
 
+# O Brasil é o quarto país com maior taxa de imigração para o Canadá no período de 1980 a 2013
+
+O Brasil teve uma colocação significativa e que chama bastante atenção e levanta a seguinte questão, porque o Brasil teve esses números tão elevados e expressivos? o que está acontecendo no Brasil para esses números aumentarem ao longo dos anos ? em tópicos abaixo eu respondo está pergunta. 
+
+<img width="1238" height="455" alt="Image" src="https://github.com/user-attachments/assets/da427fe7-c1c8-451e-8143-10a14132d88a" />
+<img width="1243" height="514" alt="Image" src="https://github.com/user-attachments/assets/6ffccf4d-380b-4812-9881-976c86f03cb4" />
+
 # Fatores_que_contribuíram_para_a_imigração: 
 
 As crises econômicas e políticas que marcaram o Brasil, especialmente na década de 1980, levaram muitos a buscar melhores condições de vida em outros países. 

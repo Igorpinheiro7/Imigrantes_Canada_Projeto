@@ -25,10 +25,11 @@ Neste gráfico podemos observar a imigração para o Canadá ao longo dos anos, 
 
 <img width="1785" height="695" alt="Image" src="https://github.com/user-attachments/assets/b627fb92-03ed-43bc-bdf1-fa682b937062" />
 
-# Os quatros maiores países da América do Sul para o Canadá de 1980 a 2013
+# Imigração dos quatros maiores países da América do Sul para o Canadá de 1980 a 2013
 
-Nos gráficos abaixo identificamos os quatros maiores países da América do Sul que tem a maior taxa de imigração para o Canadá.
+Nos gráficos abaixo identificamos os quatros maiores países da América do Sul para analisarmos qual deles tem a maior taxa de imigração.
 
+<img width="1004" height="523" alt="Image" src="https://github.com/user-attachments/assets/88e134a8-d1f0-4040-89c4-765910f37447" />
 <img width="859" height="585" alt="Image" src="https://github.com/user-attachments/assets/30ceefd3-ede5-49d1-a44e-d005fbf6397b" />
 
 # O Brasil é o quarto país com maior taxa de imigração para o Canadá no período de 1980 a 2013

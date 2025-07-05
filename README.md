@@ -6,14 +6,14 @@
 
 
 
-# Objetivo:
+# 🎯 Objetivo:
 Este projeto tinha como objetivo ver a imigração de brasileiros para o Canadá no período de 1980 a 2013. E Porque a imigração tava alta para o Canadá nesse período você deve estar se pergutando correto? 
 
 Então deixa eu explicar, em minha pesquisa eu observei que: 
 
 O grande número de imigração de brasileiros para o Canadá entre 1980 e 2013 foi motivada por um conjunto de fatores, incluindo a busca por melhores oportunidades econômicas e de vida, crises no Brasil e políticas de imigração do Canadá que incentivaram a chegada de mão de obra básica. 
 
-# Vizualização dos dados 
+# 📊 Vizualização dos dados 
 
 Para entender o panorama da imigração e realizar nossa análise exploratória, iniciamos com uma visualização detalhada da base de dados.
 

@@ -37,7 +37,7 @@ Nossa análise revelou que o Brasil ocupa a quarta posição entre os países su
 <img width="1238" height="455" alt="Image" src="https://github.com/user-attachments/assets/da427fe7-c1c8-451e-8143-10a14132d88a" />
 <img width="1243" height="514" alt="Image" src="https://github.com/user-attachments/assets/6ffccf4d-380b-4812-9881-976c86f03cb4" />
 
-# 🤔 Fatores que contribuíram para a imigração 
+# 🤔 Fatores que contribuíra para a imigração 
 
 As crises econômicas e políticas que marcaram o Brasil, especialmente na década de 1980, levaram muitos a buscar melhores condições de vida em outros países. 
 
